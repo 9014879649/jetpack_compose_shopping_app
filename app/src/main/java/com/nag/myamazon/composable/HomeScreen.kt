@@ -35,7 +35,7 @@ import com.nag.myamazon.viewmodel.MobilesSharedViewModel
 @Composable
 fun HomeScreen(navController: NavController, sharedViewModel: MobilesSharedViewModel) {
 
-    val list = getData()
+    val list = sharedViewModel.data
 
 
     var size = remember {

@@ -144,7 +144,6 @@ fun CartScreen(navController: NavController,sharedViewModel: MobilesSharedViewMo
 
                                 }
 
-
                                 Spacer(modifier = Modifier.width(10.dp))
                                 Text(
                                     text =""+quantity.value,

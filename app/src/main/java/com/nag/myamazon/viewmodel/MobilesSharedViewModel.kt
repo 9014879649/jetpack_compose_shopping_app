@@ -4,12 +4,16 @@ import android.graphics.Insets.add
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.nag.myamazon.model.Mobile
+import com.nag.myamazon.repositories.HomeRepository
 
 class MobilesSharedViewModel : ViewModel() {
 
 //    private var mobilesList = mutableListOf<Mobile>()
 
     private var mobilesList = mutableSetOf<Mobile>()
+
+    //TODO: Direct Ref Bad Practice
+    var data = HomeRepository().getItemsData();
 
 
     private var mobile:Mobile? = null
