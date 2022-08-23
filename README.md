@@ -1,17 +1,16 @@
 # jetpack_compose_shopping_app
 Android Jetpack Compose Shopping App like flipkart and amazon
 
-
-![home](https://user-images.githubusercontent.com/37570341/185859096-871aae58-dd80-4609-91f3-f56f83985e29.png)
-
-
-![details](https://user-images.githubusercontent.com/37570341/185859127-7adbbcf5-dd33-4084-b3f6-3a0feb01273c.png)
+![home](https://user-images.githubusercontent.com/37570341/186161337-ce669757-0220-4acd-a3c2-1be9ef2cd80b.png)
 
 
-![empty_cart](https://user-images.githubusercontent.com/37570341/185859183-d7c67886-2657-465c-85ec-c29116882949.png)
+![details](https://user-images.githubusercontent.com/37570341/186161393-b9de07dd-bb92-49ec-bf78-f69ad2a66419.png)
 
 
-![cart](https://user-images.githubusercontent.com/37570341/185859213-0f87a8b4-ee83-4689-8879-7cc7091d8ae8.png)
+![cart](https://user-images.githubusercontent.com/37570341/186161425-3c3771ad-e2e5-495c-a620-8dadfeefda08.png)
+
+
+
 
 
 
