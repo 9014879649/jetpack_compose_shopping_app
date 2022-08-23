@@ -8,7 +8,6 @@ import com.nag.myamazon.repositories.HomeRepository
 
 class MobilesSharedViewModel : ViewModel() {
 
-//    private var mobilesList = mutableListOf<Mobile>()
 
     private var mobilesList = mutableSetOf<Mobile>()
 
